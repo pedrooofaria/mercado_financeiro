@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/pedrofaria/Documents/FlutterProjects/App_Portifólio/mercadofinanceiro/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/pedrofaria/Documents/Projetos - Flutter/mercado_financeiro/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/pedrofaria/.gradle/caches/transforms-2/files-2.1/454541ed0d74e0d0babd214b189709ff/coordinatorlayout-1.0.0/res/values/values.xml",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/pedrofaria/Documents/FlutterProjects/App_Portifólio/mercadofinanceiro/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/pedrofaria/Documents/Projetos - Flutter/mercado_financeiro/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

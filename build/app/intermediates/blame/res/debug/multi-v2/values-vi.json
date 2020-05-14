@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/pedrofaria/Documents/FlutterProjects/App_Portifólio/mercadofinanceiro/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml",
+            "outputFile": "/Users/pedrofaria/Documents/Projetos - Flutter/mercado_financeiro/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml",
             "map": [
                 {
                     "source": "/Users/pedrofaria/.gradle/caches/transforms-2/files-2.1/7faf2ad74a0b9932e38d86e684646e95/core-1.0.0/res/values-vi/values-vi.xml",

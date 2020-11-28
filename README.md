@@ -14,3 +14,5 @@ Para obter ajuda sobre como iniciar o Flutter, consulte nossa [documentação](h
 | Main Screen |
 | --------|
 |<img src="screenshot/MercadoFinanceiro_Tela1.png" width="320">|
+
+
